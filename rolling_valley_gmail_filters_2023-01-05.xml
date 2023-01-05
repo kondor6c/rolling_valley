@@ -1,0 +1,104 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:apps="http://schemas.google.com/apps/2006">
+<title>Mail Filters</title>
+<id>tag:mail.google.com,2008:filters:z0000001672931583017*6295547491123651002,z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<author>
+<name>Kevin Faulkner</name>
+<email>kondor.6c@gmail.com</email>
+</author>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931583017*6295547491123651002</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="label" value="rolling-valley"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#free"/>
+<apps:property name="label" value="rolling-valley/rv-free"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#bolo"/>
+<apps:property name="label" value="rolling-valley/rv-bolo"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#huntvalley"/>
+<apps:property name="label" value="rolling-valley/rv-huntvalley"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#want"/>
+<apps:property name="label" value="rolling-valley/rv-want"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#sale"/>
+<apps:property name="label" value="rolling-valley/rv-sale"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#play"/>
+<apps:property name="label" value="rolling-valley/rv-play"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+<entry>
+<category term="filter"/>
+<title>Mail Filter</title>
+<id>tag:mail.google.com,2008:filter:z0000001672931917606*6098330141305684368</id>
+<updated>2023-01-05T15:18:50Z</updated>
+<content/>
+<apps:property name="from" value="rolling-valley@groups.io"/>
+<apps:property name="hasTheWord" value="#pool"/>
+<apps:property name="label" value="rolling-valley/rv-pool"/>
+<apps:property name="sizeOperator" value="s_sl"/>
+<apps:property name="sizeUnit" value="s_smb"/>
+</entry>
+</feed>
