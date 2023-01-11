@@ -1,6 +1,8 @@
 Rolling Valley Neighborhood Wiki
 ################################
 
+`**Resources**<https://github.com/kondor6c/rolling_valley/blob/master/Resources.rst>`_
+
 Hashtags
 --------
 
